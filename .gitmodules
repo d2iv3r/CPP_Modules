@@ -1,0 +1,30 @@
+[submodule "CPP_Module_00"]
+	path = CPP_Module_00
+	url = git@github.com:d2iv3r/CPP_Module_00.git
+[submodule "CPP_Module_01"]
+	path = CPP_Module_01
+	url = git@github.com:d2iv3r/CPP_Module_01.git
+[submodule "CPP_Module_02"]
+	path = CPP_Module_02
+	url = git@github.com:d2iv3r/CPP_Module_02.git
+[submodule "CPP_Module_03"]
+	path = CPP_Module_03
+	url = git@github.com:d2iv3r/CPP_Module_03.git
+[submodule "CPP_Module_04"]
+	path = CPP_Module_04
+	url = git@github.com:d2iv3r/CPP_Module_04.git
+[submodule "CPP_Module_06"]
+	path = CPP_Module_06
+	url = git@github.com:d2iv3r/CPP_Module_06.git
+[submodule "CPP_Module_07"]
+	path = CPP_Module_07
+	url = git@github.com:d2iv3r/CPP_Module_07.git
+[submodule "CPP_Module_08"]
+	path = CPP_Module_08
+	url = git@github.com:d2iv3r/CPP_Module_08.git
+[submodule "CPP_Module_09"]
+	path = CPP_Module_09
+	url = git@github.com:d2iv3r/CPP_Module_09.git
+[submodule "CPP_Module_05"]
+	path = CPP_Module_05
+	url = git@github.com:d2iv3r/CPP_Module_05.git
